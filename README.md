@@ -60,3 +60,6 @@ module.eks["staging"].null_resource.eks_cluster: Creating...
 module.eks["staging"].null_resource.eks_cluster: Creation complete after 0s [id=7067854526538491366]
 module.eks["dev"].null_resource.eks_cluster: Creation complete after 0s [id=6175270662913108884]
 ```
+
+![Screenshot 2023-08-15 at 3 55 41 PM](https://github.com/iangrunt/temp-examples/assets/101607944/7a3c4c68-fd3a-450d-9b95-17da45fec1fa)
+
