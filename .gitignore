@@ -1,0 +1,25 @@
+#  Local .terraform directories
+**/.terraform/
+
+# .tfstate files
+**/*.tfstate
+**/*.tfstate.*
+
+# .tfplan files
+**/*.tfplan
+
+# terraform locks
+**/.terraform.lock.hcl
+
+# terragrunt-cache
+**/.terragrunt-cache/*
+
+# terraform locks
+.terraform.lock.hcl
+
+**/.git/
+**/.idea/
+
+# vim
+**/*.swp
+**/*.swo
